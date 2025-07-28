@@ -1,0 +1,12 @@
+int a;
+float x = 3.5;
+char c;
+double y;
+
+int sum(int a, int b);
+void show();
+
+int sum(int a, int b) {
+void show() {
+float add(float, float);
+float add(float a, float b) {
